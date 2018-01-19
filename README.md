@@ -10,12 +10,6 @@ Esta es una aplicacion para escritorio para la enseñansa del ingles a estudiant
 
 ---
 
-This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md).
-By participating, you are expected to uphold this code. Please report unacceptable
-behavior to electron@github.com.
-
-Follow [@ElectronJS](https://twitter.com/electronjs) on Twitter for important
-announcements. Visit the [electron website](http://electron.atom.io).
 
 ## Using
 
